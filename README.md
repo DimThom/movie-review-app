@@ -12,7 +12,7 @@ Before you begin, make sure you have installed the following:
 
 Run the following commands to install dependencies:
 
-'''bash
+bash
 cd backend && ./mvnw install && cd ../frontend && npm install
 
 ## Execution
@@ -25,8 +25,8 @@ cd frontend && npm start
 Open your browser and go to http://localhost:3000 for the Frontend and http://localhost:8080 for the Backend.
 
 ## Directory Structure
-''backend: Java Spring Boot backend code.
-''frontend: React frontend code.
+backend: Java Spring Boot backend code.
+frontend: React frontend code.
 ## Contribution
 If you want to contribute, please open an issue or fork the repository and submit a pull request.
 
