@@ -17,7 +17,7 @@ For the Frontend, run:
 cd frontend && npm start
 
 ## Usage
-Open your browser and go to http://localhost:3000 for the Frontend and http://localhost:8080 for the Backend.
+Open your browser and go to http://localhost:3000.
 
 ## Directory Structure
 backend: Java Spring Boot backend code.
