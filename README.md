@@ -10,11 +10,6 @@ Before you begin, make sure you have installed the following:
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
-Run the following commands to install dependencies:
-
-bash
-cd backend && ./mvnw install && cd ../frontend && npm install
-
 ## Execution
 To start the application server, run:
 cd backend && ./mvnw spring-boot:run
